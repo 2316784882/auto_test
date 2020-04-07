@@ -1,7 +1,5 @@
 def wei_test():
-    print("weifeng")
-    print("hhh")
-    pass
+    print("i am weifeng")
 
 
 wei_test()
