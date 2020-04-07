@@ -6,4 +6,5 @@ def func():
     print(dd)
     print("ok")
     print("not ok")
+    print("beautiful world")
 func()
