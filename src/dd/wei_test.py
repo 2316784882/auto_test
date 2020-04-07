@@ -1,9 +1,6 @@
 def wei_test():
-    print("weifeng")
+    print("i am master")
 
-    print("i am beautiful world")
-
-    print("hhh")
 
     pass
 
