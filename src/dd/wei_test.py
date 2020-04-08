@@ -1,5 +1,5 @@
 def wei_test():
-    print("i am master")
+    print("i am master2")
 
 
     pass
