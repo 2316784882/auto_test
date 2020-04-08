@@ -1,5 +1,5 @@
 def merge_test():
-    print("i am master")
+    print("i am next master")
     pass
 
 
